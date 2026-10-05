@@ -3,10 +3,12 @@ import os, sys, json
 import numpy as np
 from PIL import Image, ImageDraw
 import compose as C
-from content_w42 import POSTS, norm
+import importlib
+_cm = importlib.import_module(os.environ.get("CONTENT","content_w42"))
+POSTS, norm = _cm.POSTS, _cm.norm
 
 BASE = os.path.dirname(os.path.abspath(__file__))
-ART = f"{BASE}/art_w42"
+ART = f"{BASE}/{os.environ.get('ARTDIR','art_w42')}"
 OUTROOT = os.path.abspath(f"{BASE}/../posts")
 W, H = C.W, C.H
 

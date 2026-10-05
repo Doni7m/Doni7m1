@@ -2,7 +2,7 @@ import sys, os, time, importlib
 from multiprocessing import Pool
 from PIL import Image
 BASE = os.path.dirname(os.path.abspath(__file__))
-ART = f"{BASE}/art_w42"
+ART = f"{BASE}/{os.environ.get('ARTDIR','art_w42')}"
 
 def job(args):
     mod, name = args

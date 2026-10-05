@@ -1,7 +1,7 @@
 import sys, glob
 from PIL import Image, ImageDraw
 prefix = sys.argv[1]; out = sys.argv[2]
-files = sorted(glob.glob(f"art_w42/{prefix}*.png"))
+files = sorted(glob.glob(f"{__import__('os').environ.get('ARTDIR','art_w42')}/{prefix}*.png"))
 cols = 4; tw, th = 480, 284
 rows = (len(files)+cols-1)//cols
 sh = Image.new("RGB", (cols*tw, rows*th), (246,239,224))
