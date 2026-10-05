@@ -1,0 +1,46 @@
+Crie um novo carrossel completo para eu publicar no Instagram @doni7m nesta noite. Execute sem pedir confirmação ou aprovação do tema. Entregue as imagens prontas e um arquivo TXT com legenda e hashtags, nunca apenas ideias, roteiros ou prompts. Não publique automaticamente no Instagram.
+
+OBJETIVO EDITORIAL
+Produza reflexões noturnas que provoquem identificação e ajudem o leitor a olhar para a própria vida com mais clareza. Varie os temas: expectativas, relações, coragem, limites, escolhas, comparação, tempo, mudanças, gratidão, solitude, pequenos prazeres, desapego e recomeços. Nem todo carrossel precisa falar de dormir ou descansar. Linguagem íntima, reflexiva e envolvente, sem exageros ou promessas de transformação. Consulte os conteúdos anteriores quando disponíveis e evite repetir temas, aberturas, metáforas e cenas dos últimos sete dias.
+
+FILOSOFIA COM NATURALIDADE
+Quando houver conexão pertinente, relacione o tema ao pensamento de um filósofo escolhido pela afinidade com a ideia, variando as referências. Não use um nome famoso apenas para validar o texto; omita a filosofia quando for forçada. Antes de atribuir uma ideia ou citação, confira em fonte confiável, preferencialmente na própria obra. Prefira frases autorais inspiradas no conceito, identificadas como “Uma reflexão inspirada em...”, sem apresentá-las como citações literais. Só use aspas em citações verificadas. Não invente frases, obras ou atribuições. Registre obra ou fonte numa seção separada ao final do TXT, fora da legenda.
+
+ESTRUTURA: EXATAMENTE SETE IMAGENS INDIVIDUAIS
+01 — Capa com frase forte, clara e que desperte curiosidade.
+02 — Situação cotidiana com identificação.
+03 — Aprofundamento do conflito ou reflexão.
+04 — Mudança de perspectiva, com conexão filosófica quando pertinente.
+05 — Aplicação concreta na vida cotidiana.
+06 — Reflexão que prepare o encerramento.
+07 — Conclusão memorável e convite discreto para salvar ou compartilhar.
+Cada slide deve acrescentar uma ideia; não repita a mesma mensagem com palavras diferentes. Português brasileiro natural, ortografia correta, frases curtas, preferencialmente até 25 palavras no texto principal de cada slide. Não use culpa, positividade tóxica, diagnósticos psicológicos ou promessas de sucesso. Reconheça que nem tudo depende da vontade individual.
+
+IDENTIDADE VISUAL
+Use a imagem de referência do usuário quando disponível. Na mensagem de agendamento não havia anexo acessível; sem referência disponível, execute com a descrição a seguir sem interromper.
+Formato vertical 4:5, preferencialmente 1080 × 1350 pixels. Fundo marfim com textura sutil de papel. Frase principal na parte superior, fonte serifada editorial grande, encorpada e elegante, cor carvão. Ilustração narrativa na metade inferior. Pintura em guache e aquarela com traços finos de lápis, pinceladas visíveis e bordas orgânicas que se dissolvem no papel. Paleta azul-petróleo, azul profundo, ocre, creme e dourado suave. Boa legibilidade no celular, margens de segurança de aproximadamente 8%. Consistência de tipografia, cores e composição nas sete imagens. Sem aparência de fotografia, renderização 3D ou desenho infantil.
+
+PERSONAGEM E CENÁRIOS
+Quando a cena pedir pessoa, use personagem recorrente: homem adulto de cabelo curto escuro, sobretudo ocre, calça escura e sapatos discretos, preferencialmente de costas ou perfil. Não precisa aparecer em todas as imagens; varie com objetos simbólicos, paisagens e interações entre pessoas. Cenários inspirados na Ilha da Madeira: Atlântico, falésias, rochas vulcânicas, vegetação, caminhos de pedra, casas nas encostas e interiores acolhedores. Clima noturno com azul profundo, reflexos sobre o mar e luz quente nas casas. Varie enquadramentos, relacione cada ilustração à mensagem e não repita a mesma paisagem nas sete imagens.
+
+RODAPÉ EM TODAS AS IMAGENS
+Linha horizontal fina; “@doni7m” no canto inferior esquerdo; numeração de “01 / 07” a “07 / 07” no canto inferior direito. Sem outras assinaturas ou marcas-d’água.
+
+DATAS
+Use a data da execução no fuso Europe/Lisbon para organizar os arquivos. Não é necessário mencionar data ou dia da semana nas imagens; somente se contribuir naturalmente. Não force relações com feriados, datas comemorativas ou início de mês.
+
+TXT UTF-8: AAAA-MM-DD_legenda.txt
+1. LEGENDA PRONTA PARA PUBLICAR
+Legenda que complemente sem apenas repetir os sete slides: abertura envolvente, reflexão em parágrafos curtos, pergunta natural para comentários, convite discreto para salvar ou compartilhar, identificação da inspiração filosófica se houver e “@doni7m”.
+2. HASHTAGS
+Exatamente 30 hashtags distintas relacionadas ao tema e perfil, separadas por espaços e prontas para copiar.
+3. REFERÊNCIA FILOSÓFICA — NÃO COPIAR PARA A LEGENDA
+Somente quando aplicável: filósofo, obra ou fonte consultada e link. Informe se é interpretação autoral ou contém citação literal verificada.
+
+ENTREGA
+Gere sete imagens como arquivos individuais, nunca colagem ou grade, nomeadas AAAA-MM-DD_01.png até AAAA-MM-DD_07.png. Entregue o TXT separadamente. Havendo suporte, reúna as sete imagens e o TXT em AAAA-MM-DD_carrossel_noite.zip. Disponibilize links funcionais de download.
+
+VERIFICAÇÃO FINAL
+Confira exatamente sete imagens diferentes, ortografia, acentuação, legibilidade, numeração, grafia correta de @doni7m e coerência entre frases e ilustrações. Confirme legenda e exatamente 30 hashtags distintas no TXT. Confira as referências filosóficas. Se houver ZIP, verifique os oito arquivos dentro dele.
+Se uma limitação impedir a conclusão, entregue o que estiver pronto e informe exatamente o que faltou. Não declare completo se houver arquivos ausentes.
+Na mensagem final, informe brevemente o tema, referência filosófica quando houver e links dos arquivos.
