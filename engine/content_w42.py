@@ -171,7 +171,7 @@ Prestar atenção não exige tempo sobrando. Exige, por alguns minutos, deixar u
 
 Isso vale para quem está ao seu lado e também para você, quando o corpo avisa que precisa parar.
 
-Quem merece o seu ouvir inteiro hoje?
+Quem merece a sua escuta inteira hoje?
 
 Salve para lembrar de escutar sem pressa e compartilhe com quem sabe ouvir.
 
@@ -398,7 +398,7 @@ add(date="2026-10-18", slot="A", kind="carousel", philosopher="Epicteto", theme=
         ("Soltar o que não é seu abre espaço para o que é.", "Salve para a próxima semana pesada."),
     ],
     scenes=["sun_a1", "sun_a2", "sun_a3", "sun_a4", "sun_a5", "sun_a6", "sun_a7"],
-    caption="""Domingo à noite é um bom momento para separar o que é seu do que não é.
+    caption="""Domingo é um bom momento para separar o que é seu do que não é.
 
 Epicteto abre o Manual dizendo que algumas coisas dependem de nós, como nossas opiniões e ações, e outras não. Este carrossel é uma reflexão inspirada nessa distinção, e não uma citação literal.
 
@@ -414,7 +414,7 @@ Reflexão autoral inspirada em Epicteto, Encheiridion (Manual), 1.
 
 @doni7m""",
     hashtags=tags30(["#Epicteto", "#Estoicismo", "#Estoico", "#Controle", "#Desapego", "#Limites", "#SoltarOQueNaoEMeu",
-                     "#FilosofiaEstoica", "#DomingoANoite", "#Ansiedade", "#SemanaQueComeca", "#Foco"], 0),
+                     "#FilosofiaEstoica", "#Domingo", "#Ansiedade", "#SemanaQueComeca", "#Foco"], 0),
     ref="""Filósofo: Epicteto (c. 50-135 d.C.).
 Obra: Encheiridion (Manual), §1.
 Passagem consultada (tradução inglesa de Elizabeth Carter): "Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions."
